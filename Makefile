@@ -1,7 +1,7 @@
 TEST?=$$(go list ./... | grep -v 'vendor')
 HOSTNAME=trendmicro.com
 NAMESPACE=trend-lucas-wu
-NAME=test
+NAME=hashicups
 BINARY=terraform-provider-${NAME}
 VERSION=0.4
 OS_ARCH=darwin_arm64
