@@ -1,7 +1,7 @@
 terraform {
   required_providers {
     hashicups = {
-      source = "hashicorp.com/edu/hashicups"
+      source = "trend-lucas-wu/test"
     }
   }
 }
